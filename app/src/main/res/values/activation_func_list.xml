@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activation_func_list">
+        <item>sigmoid</item>
+        <item>relu</item>
+        <item>leakyrelu</item>
+        <item>tanh</item>
+        <item>softmax</item>
+    </string-array>
+</resources>
